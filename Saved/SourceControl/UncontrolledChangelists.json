@@ -5,9 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/kevin/OneDrive/Desktop/New folder (3)/Content/WB_MainMenu.uasset",
+=======
 				"C:/Users/123mi/OneDrive/Dokumenty/Lok_game_jam_2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/123mi/OneDrive/Dokumenty/Lok_game_jam_2024/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/123mi/OneDrive/Dokumenty/Lok_game_jam_2024/Content/Characters/BP_Character.uasset",
+>>>>>>> origin/main
 				"C:/Users/123mi/OneDrive/Dokumenty/Unreal Projects/Future_is_past/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
